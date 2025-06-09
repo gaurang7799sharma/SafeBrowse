@@ -52,5 +52,5 @@ Result is instantly displayed as Phishing or Legitimate
 📚 Research Publication
 Presented at: 4th International Conference on Networks and Cryptology, New Delhi, India
 Status: Communicated
-Authors: Aman Yadav & Gaurang Shekhar Sharma (gaurangsharma752@gmail.com, 7668677441 Whatsapp)
+Authors: Aman Yadav & Gaurang Shekhar Sharma (gaurangsharma752@gmail.com, 7668677441 for any queries regarding working of the project Whatsapp)
 Supervisor: Mr. Arnav Kotiyal (Graphic Era University)
